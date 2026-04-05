@@ -14,7 +14,7 @@ export const skillCategories = [
   {
     title: "Version Control",
     skills: ["Git", "GitHub"],
-    link: { label: "Check my GitHub", url: "https://github.com/yourusername" },
+    link: { label: "Check my GitHub", url: "https://github.com/Mondal02" },
   },
   {
     title: "Tools & Workflow",
