@@ -4,7 +4,7 @@ export const projects = [
     title: "eSambandh",
     description:
       "A digital marketplace connecting painters and dealers with efficient order management and streamlined operations. Features a configurable admin dashboard with real-time coordination across all stakeholders.",
-    tags: ["React.js", "RESTful APIs", "Redux"],
+    tags: ["Ionic", "Angular", "RESTful APIs", "Redux"],
     category: "frontend",
     featured: true,
   },
@@ -31,7 +31,7 @@ export const projects = [
     title: "Carscan",
     description:
       "A computer vision and ML platform scanning vehicle damage and providing real-time health reports and repair estimates — used by insurance companies to assess vehicle owner submissions.",
-    tags: ["React.js", "Computer Vision", "ML Integration"],
+    tags: ["Angular", "Computer Vision", "ML Integration"],
     category: "frontend",
     featured: true,
   },
