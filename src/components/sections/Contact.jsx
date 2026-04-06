@@ -30,7 +30,7 @@ const contactInfo = [
     icon: FiLinkedin,
     label: "LinkedIn",
     value: "Moumita_LinkedIn",
-    href: "https://linkedin.com/in/Moumita_LinkedIn",
+    href: "https://www.linkedin.com/in/moumita-mondal-912312203/",
   },
 ];
 

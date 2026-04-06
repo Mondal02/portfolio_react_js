@@ -2,7 +2,7 @@ export const socialLinks = [
   {
     name: "LinkedIn",
     icon: "linkedin",
-    url: "https://linkedin.com/in/Moumita_LinkedIn",
+    url: "https://www.linkedin.com/in/moumita-mondal-912312203/",
   },
   {
     name: "Email",
