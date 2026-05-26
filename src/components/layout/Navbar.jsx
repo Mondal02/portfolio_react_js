@@ -37,7 +37,7 @@ export default function Navbar() {
             href="#home"
             className="font-mono text-sm text-primary-500 tracking-wide"
           >
-            // moumita.dev
+            // momo.dev
             <span className="animate-pulse">_</span>
           </a>
 
